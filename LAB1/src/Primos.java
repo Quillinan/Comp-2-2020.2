@@ -12,7 +12,7 @@ public class Primos {
         listaNumeros = IntStream.range(2, n+1).toArray();
         int c = 0; // contador de números primos
         for ( int numero = 2; numero <= n; numero++) {
-            int c2 = 2; // partindo da
+            int c2 = 2; // contador para a lista auxiliar 
             while ( c2 <= numero/2 ) {
                 if ( numero % c2 == 0) {
                     listaNumeros[numero-2] = 0;
