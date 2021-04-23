@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d20f2b13-dcb3-4f3b-b1b9-0231993714f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armarios/Armarios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Armarios/src/Armarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/LAB1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/Primos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB1/out/production/Primos/Primos.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
