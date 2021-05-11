@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class CalculadorIntersecaoIngenuo implements CalculadorIntersecao {
+
+    @Override
+    public List<Usuario> obterIntersecao(List<Usuario> lista1, List<Usuario> lista2) {
+
+        // para cada elemento da primeira lista, percorra a segunda lista até encontrá-lo (ou não)
+        List<Usuario> compartilhados = new ArrayList<>();
+        for(Usuario usuarioLista1 : lista1)
+        {
+            for(Usuario usuarioLista2 : lista2)
+            {
+                if(usuarioLista1.compareTo(usuarioLista2) == 0)
+                {
+                    compartilhados.add(usuarioLista1);
+                }
+            }
+        }
+
+        return compartilhados;
+    }
+}
