@@ -1,0 +1,7 @@
+5) Adapte novamente a classe Album (e outras classes que precisarem acompanhar
+   as mudanças), fazendo com que cada instância de Album
+   possa colecionar, se quisermos, um ÚNICO tipo de objeto colecionável.
+
+6) Adicione um unit test (um único método) onde você terá duas instâncias de Album:
+   uma para Selos e outra para Figurinhas, fazendo algum teste muito básico
+   com cada instância dessas.
